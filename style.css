@@ -62,11 +62,11 @@ main .cards article {
 }
 
 main .cards article:first-child {
-  border-top: 0.3rem solid var(--Red);
+  border-top: 0.3rem solid var(--Cyan);
 }
 
 main .cards article:nth-child(2) {
-  border-top: 0.3rem solid var(--Cyan);
+  border-top: 0.3rem solid var(--Red);
 }
 
 main .cards article:nth-child(3) {
